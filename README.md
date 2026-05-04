@@ -12,7 +12,7 @@ This project analyzes sales performance using Power BI.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 ## 🛠 Tools Used
 
